@@ -1,1 +1,1 @@
-The code that sets the time on the smartphone and sends it to the water bottle is PillClock2 (1).aia, and the code that allows the pill to fall down from the water bottle lid at a fixed time is medical_watch4.ino.
+The code that sets the time on the smartphone and sends it to the water bottle is PillClock2 (1).aia(App Inventor), and the code that allows the pill to fall down from the water bottle lid at a fixed time is medical_watch4.ino(Arduino).
